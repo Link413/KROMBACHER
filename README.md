@@ -1,3 +1,7 @@
 # KROMBACHER
 
-* Study group *Link413*의 전반적인 이슈 논의와 위키 문서화를 위한 Repository.
+* Java Version : 1.8  
+* Build With __Gradle 2.9__  
+* Web Framework : Spring-boot 1.3.1  
+* Template Engine : thymeleaf  
+* See more information @ build.gradle  
